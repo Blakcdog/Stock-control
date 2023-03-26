@@ -1,1 +1,1 @@
-# Stock-contron
+# Stock-control
